@@ -1,0 +1,3 @@
+Apple	Mac	2011	Bueno	
+Hp	Gamer	2020	Buena	
+Hp	ASD	2018	Mal Estado	
